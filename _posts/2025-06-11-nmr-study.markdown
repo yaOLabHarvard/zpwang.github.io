@@ -1,0 +1,9 @@
+---
+layout: default
+title: NMR study on transition oxides
+modal-id: 1
+img: nmr_fib.png
+alt: (a) TmVO4 single crystal (b) SEM image during the focus ion beam (FIB) polish (c) TmVO4 single crystal after FIB (d) V-51 NMR signal comparsion before and after the FIB polish
+description: >
+    The role of nematicity inside the pnictide superconductors remains as a mestery. In order to investigate the critical nematic fluctuaion and its role, a insulator (TmVO4)without superconductivity serves as a playground. We find that the spin-lattice relaxation rate scales with the shear elastic constant associated with the ferroquadrupole phase transition, suggesting that <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.205137">quadrupole (nematic) fluctuations</a> dominate the spin-lattice relaxation for in-plane fields. 
+---
